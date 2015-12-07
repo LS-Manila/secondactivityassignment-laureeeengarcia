@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SecondActivityAssignment</string>
+    <string name="action_settings">Settings</string>
+    <string name="day_input_prompt">Input the day: </string>
+    <string name="month_input_prompt">Input the month: </string>
+    <string name="year_input_prompt">Input the year: </string>
+    <string name="compute_day">COMPUTE DAY</string>
+</resources>
